@@ -1,7 +1,7 @@
 only owner can unshare the secret.
-if user wants
+if user wants heeeeee
 reset the data. Ahelper func is given hello i am ahere
 aaa letsas as
 return 0 in length if no.
 
-secretserviceimpl 99185062
+secretserviceimp
