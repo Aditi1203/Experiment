@@ -8,7 +8,7 @@ def someFunction():
     global f
     g = 23
     print(f, g)
-    f = "changing global variable"
+    f = u"changing global variable"
 
 
 someFunction()
