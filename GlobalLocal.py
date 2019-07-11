@@ -14,5 +14,4 @@ def someFunction():
 someFunction()
 print(f, g)
 
-
 # To use global declare the variable with global
